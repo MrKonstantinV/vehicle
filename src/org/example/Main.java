@@ -3,7 +3,6 @@ package org.example;
 import org.example.model.Bicycle;
 import org.example.model.Car;
 import org.example.model.Truck;
-import org.example.model.Vehicle;
 import org.example.service.*;
 
 import java.util.List;
